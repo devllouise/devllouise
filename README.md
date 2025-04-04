@@ -1,16 +1,31 @@
-## Hi there 👋
+# ✨ Oiê! Eu sou a Maira (ou Mai) 👩🏾‍💻
 
-<!--
-**devllouise/devllouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma desenvolvedora back-end apaixonada por tecnologia e inovação. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot, Kafka e muito mais!
 
-Here are some ideas to get you started:
+🔍 Sempre em busca de aprender mais sobre:
+- ☁️ Arquitetura em nuvem (com foco em AWS)
+- 🧪 Testes automatizados e boas práticas de código
+- 🔄 Mensageria com Kafka, SQS e SNS
+- 📊 Visão de negócio e impacto dos sistemas
+- 🤝 Trabalho em equipe e metodologias ágeis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande, cursando o 3º semestre.
+
+🐶 Também sou mãe de três doguinhos lindos: Lilica, Jake e Maia 🐾
+
+---
+
+## 📈 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maira-silverio/)
+- 💻 [Portfólio (em breve!)]()
+- ✉️ Entre em contato: **m.llouisef23@gmail.com**
