@@ -1,4 +1,4 @@
-# ✨ Oiê! Eu sou a Maira (ou Mai) 👩🏾‍💻
+# ✨ Oiê! Eu sou a Maíra (ou Mai) 👩🏾‍💻
 
 Sou uma desenvolvedora back-end apaixonada por tecnologia e inovação. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot, Kafka e muito mais!
 
