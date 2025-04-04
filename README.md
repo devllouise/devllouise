@@ -1,10 +1,12 @@
 # ✨ Oiê! Eu sou a Maíra (ou Mai) 👩🏾‍💻
 
 Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot, Kafka e muito mais!
-    
+
 <div>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=devllouise&layout=compact&langs_count=8&theme=synthwave"/>
+    <a href="https://github.com/devllouise">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devllouise&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
+    </a>
 </div>
 
 ## 🛠️ Tecnologias que uso
