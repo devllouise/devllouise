@@ -2,12 +2,12 @@
 
 Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot, Kafka e muito mais!
 
-<p align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=maira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maira-dev&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maira-dev&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maira-dev&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+</a>
 
 ## 🛠️ Tecnologias que uso
 
