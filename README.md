@@ -24,3 +24,5 @@ Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maira-silverio/)
 - 💻 [Portfólio (em breve!)]()
+
+![snake gif](https://github.com/devllouise/devllouise/blob/output/github-contribution-grid-snake.svg)
