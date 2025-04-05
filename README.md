@@ -3,10 +3,8 @@
 Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot, Kafka e muito mais!
 
 <div>
-    <a href="https://github.com/devllouise">
-      <img width=405em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
-      <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs?username=devllouise&theme=synthwave&layout=compact&langs_count=8&card_width=320"/>
-    </a>
+    <img width=405em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
+    <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs?username=devllouise&theme=synthwave&layout=compact&langs_count=8&card_width=320"/>
 </div>
 
 ## 🛠️ Tecnologias que uso
