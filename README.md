@@ -4,7 +4,7 @@ Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como
 
 <div>
     <a href="https://github.com/devllouise">
-      <img width=400em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
+      <img width=450em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
       <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs?username=devllouise&theme=synthwave&layout=compact&langs_count=8&card_width=320"/>
     </a>
 </div>
