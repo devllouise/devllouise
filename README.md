@@ -1,6 +1,6 @@
-# ✨ Oiê! Eu sou a Maíra (ou Mai) 👩🏾‍💻
+# ✨ Oie! Eu sou a Maíra 👩🏾‍💻
 
-Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot, Kafka e muito mais!
+Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot!
 
 <div>
     <img width=405em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
