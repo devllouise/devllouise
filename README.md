@@ -1,6 +1,6 @@
 # ✨ Oie! Eu sou a Maíra 👩🏾‍💻
 
-Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como estagiária no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot!
+Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como dev back-end no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot!
 
 <div>
     <img width=405em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
@@ -21,6 +21,5 @@ Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como
 ## 🌐 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maira-silverio/)
-- 💻 [Portfólio (em breve!)]()
 
 ![snake gif](https://github.com/devllouise/devllouise/blob/output/github-contribution-grid-snake.svg)
