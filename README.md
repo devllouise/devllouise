@@ -2,11 +2,6 @@
 
 Sou uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, atuo como dev back-end no Itaú Unibanco, onde participo de projetos voltados à infraestrutura, cloud (AWS) e integração de sistemas usando tecnologias como Java, Spring Boot!
 
-<div>
-    <img width=405em src="https://github-readme-stats.vercel.app/api?username=devllouise&theme=synthwave"/>
-    <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs?username=devllouise&theme=synthwave&layout=compact&langs_count=8&card_width=320"/>
-</div>
-
 ## 🛠️ Tecnologias que uso
 
 <div style="display: flex; flex-wrap: wrap;">
